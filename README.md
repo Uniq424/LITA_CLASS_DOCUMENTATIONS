@@ -13,7 +13,39 @@ This journey through Data analysis gave me a more clearer insight about tech wor
 The primary source of data used is open sources freely downloaded from kaggle and other data repository site.
 
 ### Tools Used
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data cleaning
+  2. For Analysis
+  3. For Data Visualization
+- SQL - Structured Query Language for querying of data.
+- Github for Portfolio building
+
+### Data Cleaning and Preparation
+---
+In the initial phase of the data cleaning and preparation, we perform the following actions:
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+---
+This involves exploring of data to answering some question about the data such as:
 - Microsoft Excel
+1. What is the Mean, Average Sum, Grand Total of a part set of numbers.
+2. What is the overall sales trend in a given data set.
+- SQL
+1. Write query to Create a Customer and Order Table
+2. Select from table where condition is True
+   
+### Data Analysis
+---
+- Microsoft Excel: Data Extraction
+  LEFT(B6, FIND (".",B6)-1)
+- SQL 
+  ```SQL
+  SELECT * FROM TABLE
+  WHERE CONDITION >= 20
 
 
 
