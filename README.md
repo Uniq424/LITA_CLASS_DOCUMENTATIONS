@@ -49,3 +49,7 @@ This involves exploring of data to answering some question about the data such a
 
 ### Visualization
 
+![IMG-20241005-WA0004](https://github.com/user-attachments/assets/f690c24c-c17c-40ed-9a24-e57082bfa6c8)
+
+![IMG-20241005-WA0000](https://github.com/user-attachments/assets/a93a9127-a860-497f-a9f6-31fa5cb18bf0)
+
