@@ -47,6 +47,5 @@ This involves exploring of data to answering some question about the data such a
   SELECT * FROM TABLE
   WHERE CONDITION >= 20
 
-
-
+### Visualization
 
