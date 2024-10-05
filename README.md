@@ -3,6 +3,21 @@
 ## This is where I document my learnings as an upcoming data analyst at the Incubator hub.
 
 ### Project Title: Learning Data Analysis at Incubator Hub
+---
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Visualization](#visualization)
+
 
 ### Project Overview
 ---
@@ -48,7 +63,7 @@ This involves exploring of data to answering some question about the data such a
   WHERE CONDITION >= 20
 
 ### Visualization
-
+---
 ![IMG-20241005-WA0004](https://github.com/user-attachments/assets/f690c24c-c17c-40ed-9a24-e57082bfa6c8)
 
 
@@ -58,4 +73,3 @@ This involves exploring of data to answering some question about the data such a
 |Heading 1|Heading 2|Heading 3|Heading 4|
 |---------|---------|---------|---------|
 |Table 1|Table 2|Table 3|Table 4|
-\
