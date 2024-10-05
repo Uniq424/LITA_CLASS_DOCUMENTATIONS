@@ -51,5 +51,11 @@ This involves exploring of data to answering some question about the data such a
 
 ![IMG-20241005-WA0004](https://github.com/user-attachments/assets/f690c24c-c17c-40ed-9a24-e57082bfa6c8)
 
+
 ![IMG-20241005-WA0000](https://github.com/user-attachments/assets/a93a9127-a860-497f-a9f6-31fa5cb18bf0)
 
+
+|Heading 1|Heading 2|Heading 3|Heading 4|
+|---------|---------|---------|---------|
+|Table 1|Table 2|Table 3|Table 4|
+\
